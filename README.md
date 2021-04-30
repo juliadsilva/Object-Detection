@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Detecção de Objetos em Images</h1>
+<h1 align="center">Detecção de Objetos em Imagens</h1>
 <p align="center">Detecção de objetos usando o metodo Haar Cascade</p>
 
 <p align="center">
