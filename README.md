@@ -1,6 +1,3 @@
-# Object-Detection
-Object detection using the Haar Cascade method
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/juliadsilva/Object-Detection?style=social">
 
