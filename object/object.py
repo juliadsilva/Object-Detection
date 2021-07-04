@@ -1,10 +1,10 @@
 import cv2
 
 # Imagens
-imagem1 = cv2.imread('object/images/xadrez01.jpg')
-imagem2 = cv2.imread('object/images/xadrez01.jpg')
-imagem3 = cv2.imread('object/images/xadrez01.jpg')
-imagem4 = cv2.imread('object/images/xadrez01.jpg')
+imagem1 = cv2.imread('object/images/xadrez05.jpg')
+imagem2 = cv2.imread('object/images/xadrez05.jpg')
+imagem3 = cv2.imread('object/images/xadrez05.jpg')
+imagem4 = cv2.imread('object/images/xadrez05.jpg')
 
 # Imagens em cinza
 imagemcinza1 = cv2.cvtColor(imagem1, cv2.COLOR_BGR2GRAY)
